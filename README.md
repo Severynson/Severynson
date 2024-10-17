@@ -2,7 +2,7 @@
 
 🎓 I'm a Computer Science student at the University of the Pacific.  
 💻 Currently focused on Python, Machine Learning, and Data Analysis.  
-📚 Exploring Object-Oriented Programming with Java and building projects using LibGDX.  
+📚 Exploring Object-Oriented Programming in depth with Java and building projects using LibGDX.  
 🚀 Always excited to take on new challenges and expand my technical skills.
 
 🌱 I’m constantly learning and looking forward to collaborating on interesting projects. 
