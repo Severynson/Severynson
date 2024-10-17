@@ -1,7 +1,7 @@
 ### Hi there, I'm Severyn! 👋
 
 🎓 I'm a Computer Science student at the University of the Pacific.     
-💼👨🏻‍💻 1 year of commercial experience as a Web Developer, working with TypeScript and Next.js.       
+💼👨🏻‍💻 1 year of commercial experience as a Web Developer, working with TypeScript and Next.js + even more on my own & university projects!       
 💻 Currently focused on Python, Machine Learning, and Data Analysis.  
 📚 Exploring Object-Oriented Programming and GameDev with Java & LibGDX.   
 🚀 Always excited to take on new challenges and expand my technical skills.   
