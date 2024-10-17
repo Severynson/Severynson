@@ -1,4 +1,13 @@
-## Hi there 👋
+### Hi there, I'm Severyn! 👋
+
+🎓 I'm a Computer Science student at the University of the Pacific.  
+💻 Currently focused on Python, Machine Learning, and Data Analysis.  
+📚 Exploring Object-Oriented Programming with Java and building projects using LibGDX.  
+🚀 Always excited to take on new challenges and expand my technical skills.
+
+🌱 I’m constantly learning and looking forward to collaborating on interesting projects. 
+📫 How to reach me: LinkedIn - [LinkedIn](https://www.linkedin.com/in/severyn-kurach/), [Instagram](https://www.instagram.com/an.inhabitant.of.carcosa/?utm_source=ig_web_button_share_sheet)
+⚡ Fun fact: When I'm not coding, I love to read, hike, working out, running, and learning new languages!
 
 <!--
 **Severynson/Severynson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
