@@ -6,7 +6,7 @@
 🚀 Always excited to take on new challenges and expand my technical skills.   
 
 🌱 I’m constantly learning and looking forward to collaborating on interesting projects.                
-📫 How to reach me: LinkedIn - [LinkedIn](https://www.linkedin.com/in/severyn-kurach/), [Instagram](https://www.instagram.com/an.inhabitant.of.carcosa/?utm_source=ig_web_button_share_sheet)          
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/severyn-kurach/), [Instagram](https://www.instagram.com/an.inhabitant.of.carcosa/?utm_source=ig_web_button_share_sheet).          
 ⚡ Fun fact: When I'm not coding, I love to read, hike, working out, running, and learning new languages!          
 
 <!--
