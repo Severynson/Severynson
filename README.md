@@ -2,8 +2,8 @@
 
 🎓 I'm a Computer Science student at the University of the Pacific.  
 💻 Currently focused on Python, Machine Learning, and Data Analysis.  
-📚 Exploring Object-Oriented Programming and GameDev with Java & LibGDX.
-🚀 Always excited to take on new challenges and expand my technical skills.
+📚 Exploring Object-Oriented Programming and GameDev with Java & LibGDX.   
+🚀 Always excited to take on new challenges and expand my technical skills.   
 
 🌱 I’m constantly learning and looking forward to collaborating on interesting projects. 
 📫 How to reach me: LinkedIn - [LinkedIn](https://www.linkedin.com/in/severyn-kurach/), [Instagram](https://www.instagram.com/an.inhabitant.of.carcosa/?utm_source=ig_web_button_share_sheet)
